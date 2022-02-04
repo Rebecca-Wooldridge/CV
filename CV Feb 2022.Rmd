@@ -1,0 +1,102 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+
+title: "CV"
+author: Rebecca Louise Wooldridge
+
+jobtitle: "PhD student, Natural Resources and the Environment, Cornell University"
+address: "130 Cleveland Avenue · Ithaca · New York 14850, USA"
+fontawesome: yes
+email: rlw298@cornell.edu
+#github: Rebecca-Wooldridge
+#twitter: RebeccaWooldr14
+#osf: "Enter 5 digit osf string here"
+phone: "+1 607 262 3386"
+web: blogs.cornell.edu/fullerlab/lab-members/
+#updated: TRUE
+rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Emplomenyt
+
+*Panthera*
+
+Conservation Scintist \hfill 2017-2020
+
+*University of Belize Environmental Research Institute*
+
+Research Scientist \hfill 2015-2016
+
+# Education
+
+*Cornell University, USA*, Ph.D. Stdunt. Natural Resources and the Environment. \hfill Current
+
+*University of St Andrews, UK*, M.Sc. Statistical Ecology \hfill 2021
+
+*Univesity of Leeds, UK*, B.Sc. Zoology \hfill 2016
+
+# Publicatttions
+
+## Journal Articles
+
+Foster, R.J., Harmsen, B.J., Urbina, Y.U., **Wooldridge, R.L.**, Doncaster, C.P., Quigley, H., Figueroa, O.A. 2020. Jaguar (Panthera onca) density and tenure in a critical biological corridor. *Journal of Mammalogy*. 101(6):1622-1637. https://doi.org/10.1093/jmammal/gyaa134
+
+**Wooldridge, R.L.**, Foster, R.J., Harmsen, B.J. 2019. The functional role of scent-marking in the social organisation of large sympatric neotropical felids. *Journal of Mammalogy*. 100(2):445-453. https://doi.org/10.1093/jmammal/gyz055
+
+Soriero, V.R., **Wooldridge, R.L.**, Harmsen, B.J., Charette, M., Kilburn, V., Foster, R.J. 2018. Range extension of Northern Naked-tailed Armadillo, Cabassous centralis Miller, 1899 (Mammalia, Cingulata, Chlamyphoridae), in Belize. *Check List*. 14(5):839-843. https://doi.org/10.15560/14.5.839
+
+Harmsen, B.J., **Wooldridge, R.L.**, Gutierrez, S.M., Doncaster, C.P., Foster, R.J. 2018. Spatial and temporal interactions of free-ranging pacas (Cuniculus paca). *Mammal Research*. 63:161-172.
+https://doi.org/10.1007/s13364-017-0350-0
+
+# Awards
+
+Univeraioayt of St Andrews, UK, Steve Buckland Statistical Ecology Prize  2021
+
+Individual Achievement Award Winner, UK Ministry of Defence Sanctuary Awards 2020
+
+Recipient of two Commander’s Coins from the British Army Training Support Unit Belize in recognition of outstanding service 2019 / 2020
+
+University of Leeds, UK, Level 3 Zoology Prize 2016
+
+University of Leeds Faculty of Biological Sciences Excellence Scholarship 2013
+
+Nelson Spirit Prize for Future Leaders 2012
+
+# Research Funding
+
+*UK Ministry of Defence*. Lead scientist on grant awarded to investigate the impact of live firing on neotropical mammal populations. Total value $US 100,202.30. 2019.
+
+# Conferences
+
+Oral presentation: 4th Bi-national Seminar Mexico-Belize 2018
+
+Oral presentation: Belize Natural Resource Management Symposium 2018
+
+Poster presentation: Mesoamerican Society for Biology and Conservation 2016 congress
+
+# Workshops
+
+Panthera Integrated Data Systems: Panthera
+
+Occupancy modeling in R: Species distribution, abundance, and habitat use: Dr Viviana Ruiz-Gutierrez, Cornell University
+
+Communicating for results: Chamberlain Consulting
+
+# Invited Lectures and Seminars
+
+# References
+
+*Dr. Angela K. Fuller* · angela.fuller@cornell.edu · Professor and Unit Leader · USGS New York Cooperative Fish and Wildlife Research Unit · Department of Natural Resources and the Environment · Cornell University.
+
+*Dr Chris Sutherland* · css6@st-andrews.ac.uk · Reader in Statistics · University of St Andrews, UK.
+
+*Dr Bart Harmsen* · bharmsen@panthera.org · Panthera Belize Country Director ·
